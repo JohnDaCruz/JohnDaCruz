@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou João da Cruz</h1>
-<h3 align="center">Data Science & Dev Web e mobile</h3>
+<h3 align="center">Data Science & Dev Web e Mobile</h3>
 
 - 🌱 Atualmente estudo **Ciência de dados**
 
