@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Data Science & Dev Web e Mobile</h4>
+<h4 align="center">Data Science | Dev Web e Mobile</h4>
 
 ###
 
