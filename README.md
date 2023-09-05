@@ -1,7 +1,3 @@
-<h2 align="left">Olá 👋! Eu sou o João</h2>
-
-###
-
 <h4 align="center">Data Science | Dev Web e Mobile</h4>
 
 ###
