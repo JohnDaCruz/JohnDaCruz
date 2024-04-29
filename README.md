@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌱 Atualmente estudo: Ciência de dados<br><br>- 📫 Como me contatar: snjoao3@gmail.com<br><br>- ⚡ Fun fact:  Sou paraquedista 🪂</p>
+<p align="left">- 🌱 Tecnólogo em Ciência de dados<br><br>- 📫 Como me contatar: snjoao3@gmail.com<br><br>- ⚡ Fun fact:  Sou paraquedista 🪂</p>
 
 ###
 
